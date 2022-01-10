@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript and React.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on React.
-- 📫 How to reach me => burak.altintas@yahoo.com.tr
+- 📫 Reach me at => burak.altintas@yahoo.com.tr
 
 <!---
 buraltintas/buraltintas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
