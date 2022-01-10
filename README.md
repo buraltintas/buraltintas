@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @buraltintas
+- 👋 Hi, I’m Burak Altıntaş
 - 👀 I’m interested in JavaScript and React.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on React.
