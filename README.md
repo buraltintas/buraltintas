@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 You can react me at **burak.altintas@yahoo.com.tr**
+- 📫 You can reach me at **burak.altintas@yahoo.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
