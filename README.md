@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Self-learning frontend developer with 10 years of banking experience.</h3>
+<h3 align="center">Frontend developer at <a href="https://protein.tech/" target="blank">protein'</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraltintas&label=Profile%20views&color=0e75b6&style=flat" alt="buraltintas" /> </p>
 
