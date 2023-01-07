@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/burak_alti" target="blank"><img src="https://img.shields.io/twitter/follow/burak_alti?logo=twitter&style=for-the-badge" alt="burak_alti" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://burak-altintas.com/](https://burak-altintas.com/)
+- 👨‍💻 All of my projects are available at [burak-altintas.com](https://burak-altintas.com/)
 
 - 💬 Ask me about **React**
 
