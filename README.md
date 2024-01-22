@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Jr. Frontend Developer at <a href="https://simprasuite.com/" target="blank">SIMPRA</a></h3>
+<h3 align="center">Frontend Developer at <a href="https://simprasuite.com/" target="blank">SIMPRA</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buraltintas&label=Profile%20views&color=0e75b6&style=flat" alt="buraltintas" /> </p>
 
