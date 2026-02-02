@@ -1,29 +1,64 @@
-<h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">Frontend Developer at <a href="https://simprasuite.com/" target="blank">SIMPRA</a></h3>
+<h1 align="center">Hi, I'm Burak 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buraltintas&label=Profile%20views&color=0e75b6&style=flat" alt="buraltintas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buraltintas" alt="buraltintas" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/burak_alti" target="blank"><img src="https://img.shields.io/twitter/follow/burak_alti?logo=twitter&style=for-the-badge" alt="burak_alti" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [burak-altintas.com](https://burak-altintas.com/)
-
-- 💬 Ask me about **React**
-
-- 📫 You can reach me at **burak.altintas@yahoo.com.tr**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/burak_alti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="burak_alti" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/burak--altintas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak--altintas" height="30" width="40" /></a>
+<p align="center">
+Frontend Developer · React / React Native · Product-minded
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center">
+Currently building large-scale reservation & hospitality products at
+<a href="https://simprasuite.com/" target="_blank"><b>SIMPRA</b></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buraltintas&show_icons=true&locale=en&layout=compact" alt="buraltintas" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buraltintas&show_icons=true&locale=en" alt="buraltintas" /></p>
+### 🧩 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buraltintas&" alt="buraltintas" /></p>
+I'm a frontend developer focused on **building reliable, scalable and well-architected user interfaces**.
+
+I mostly work on:
+- complex state management (Redux, server + client state)
+- design systems & reusable UI kits
+- SSR / BFF driven frontend architectures
+- mobile + web parity (React & React Native)
+
+I care about **long-term maintainability**, not just “making it work”.
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+- React, React Native, TypeScript
+- Redux Toolkit, React Query
+- Next.js, SSR, Web Views
+
+**Architecture & Tooling**
+- Design Systems / UiKit / Web Components
+- BFF & API-driven UI
+- Testing (Jest / React Testing Library)
+
+**Styling**
+- SCSS Modules
+- Styled Systems
+- Responsive & accessible UI
+
+---
+
+### 🌍 Find me elsewhere
+
+- 💼 [LinkedIn](https://linkedin.com/in/burak--altintas)
+- 🌐 [Personal site](https://burak-altintas.com)
+- ✉️ burak.altintas@yahoo.com.tr
+
+---
+
+<details>
+<summary>📊 GitHub stats</summary>
+
+<br />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=buraltintas&show_icons=true&hide_title=true&hide_rank=true"
+/>
+
+</details>
