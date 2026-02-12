@@ -28,14 +28,15 @@ I care about **long-term maintainability**, not just “making it work”.
 ### 🛠 Tech Stack
 
 **Frontend**
-- React, React Native, TypeScript
-- Redux Toolkit, React Query
+- React, React Native, JavaScript/TypeScript
+- Redux Toolkit, Zustand, React Query
 - Next.js, SSR, Web Views
 
 **Architecture & Tooling**
 - Design Systems / UiKit / Web Components
 - BFF & API-driven UI
 - Testing (Jest / React Testing Library)
+- Domain Driven Design
 
 **Styling**
 - SCSS Modules
